@@ -1,12 +1,27 @@
-# Java Pattern Printing Practice
+# DSA Java Practice
 
-This repository contains `patterns.java`, a Java practice file for learning how to print different patterns using nested loops.
+This repository contains my Java practice programs for learning programming basics and DSA concepts step by step.
 
-## File
+## Files Covered
 
-- `patterns.java` - contains multiple star and number pattern programs inside one `main` method
+Each pushed Java file has its own section below. 
 
-## Patterns Covered
+## `array.java`
+
+Practice problems covered:
+
+- Taking array input from the user
+- Printing array values
+- Searching for a number in a 1D array
+- Taking 2D matrix input
+- Printing a matrix
+- Searching for a number in a matrix
+- Printing a matrix in spiral order
+- Printing the transpose of a matrix
+
+## `patterns.java`
+
+Practice problems covered:
 
 - Solid rectangle
 - Hollow rectangle
@@ -25,18 +40,25 @@ This repository contains `patterns.java`, a Java practice file for learning how 
 
 ## How to Run
 
-Compile the file:
+Compile a Java file:
 
 ```powershell
-javac patterns.java
+javac FileName.java
 ```
 
 Run the program:
 
 ```powershell
-java patterns
+java FileName
+```
+
+Example:
+
+```powershell
+javac array.java
+java array
 ```
 
 ## Goal
 
-The goal of this file is to practice nested loops, spacing, and basic pattern logic in Java.
+The goal of this repository is to build strong Java fundamentals and practice DSA concepts step by step.
